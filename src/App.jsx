@@ -12,7 +12,7 @@ function App() {
 			<div className='App'>
 				<Nav>
 					<GiKnifeFork />
-					<Logo to={'/'}> Deliciousss!</Logo>
+					<Logo to={'/'}> Deliciousss by awaongo!</Logo>
 				</Nav>
 				<Search />
 				<Category />
